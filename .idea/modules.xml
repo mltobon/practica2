@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/co.edu.cue.enums/co.edu.cue.enums.iml" filepath="$PROJECT_DIR$/co.edu.cue.enums/co.edu.cue.enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co.edu.cue.laboratorio/co.edu.cue.laboratorio.iml" filepath="$PROJECT_DIR$/co.edu.cue.laboratorio/co.edu.cue.laboratorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica2.iml" filepath="$PROJECT_DIR$/practica2.iml" />
+    </modules>
+  </component>
+</project>
